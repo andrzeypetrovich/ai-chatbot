@@ -1,7 +1,7 @@
 import openai
 
 # Open AI API Key
-openai.api_key = 'ZmxhZ3tub3RfYW5fYWN0dWFsX2tleV9zb3JyeV9idXRfaGV5X3lvdV9nZXRfdGhlX2ZsYWd9'
+openai.api_key = 'REDACTED'
 
 # Generate a response from the GPT model
 def generate_gpt_response(prompt):
